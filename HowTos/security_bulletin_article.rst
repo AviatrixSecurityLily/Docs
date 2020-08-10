@@ -32,7 +32,7 @@ Aviatrix OpenVPN R2.10.7 or later
 TBD
 
 **Acknowledgement**
-Aviatrix is pleased to thank Rich Mirch, Senior Adversarial Engineer - TeamARES from Critical Start, Inc. for reporting this vulnerability under responsible disclosure. 
+Aviatrix would like to thank Rich Mirch,, Senior Adversarial Engineer - TeamARES from Critical Start, Inc. for reporting this vulnerability under responsible disclosure. 
 
 11. Bypass Htaccess Security Control
 ----------------------------------------
@@ -59,7 +59,7 @@ Controller & Gateway upgrade R5.4.1290 (8/5/2020) or later
 TBD
 
 **Acknowledgement**
-Aviatrix is pleased to thank Rich Mirch, Senior Adversarial Engineer - TeamARES from Critical Start, Inc. for reporting this vulnerability under responsible disclosure. 
+Aviatrix would like to thank Rich Mirch, Senior Adversarial Engineer - TeamARES from Critical Start, Inc. for reporting this vulnerability under responsible disclosure. 
 
 10. Cleartext Storage of Cryptographic Key 
 ----------------------------------------
@@ -86,7 +86,7 @@ Controller & Gateway upgrade R5.3.1151 (6/4/2020) or later
 TBD
 
 **Acknowledgement**
-Aviatrix is pleased to thank Rich Mirch, Senior Adversarial Engineer - TeamARES from Critical Start, Inc. for reporting this vulnerability under responsible disclosure. 
+Aviatrix would like to thank Rich Mirch, Senior Adversarial Engineer - TeamARES from Critical Start, Inc. for reporting this vulnerability under responsible disclosure. 
 
 9. Pre-Auth Account Takeover
 ----------------------------------------
@@ -113,7 +113,7 @@ Controller & Gateway upgrade R5.4.1290 (8/5/2020) or later
 TBD
 
 **Acknowledgement**
-Aviatrix is pleased to thank Rich Mirch, Senior Adversarial Engineer - TeamARES from Critical Start, Inc. for reporting this vulnerability under responsible disclosure. 
+Aviatrix would like to thank Rich Mirch, Senior Adversarial Engineer - TeamARES from Critical Start, Inc. for reporting this vulnerability under responsible disclosure. 
 
 
 8. Insufficiently Protected Credentials
@@ -141,7 +141,7 @@ Controller & Gateway upgrade R5.3.1151 (6/4/2020) or later
 TBD
 
 **Acknowledgement**
-Aviatrix is pleased to thank Rich Mirch, Senior Adversarial Engineer - TeamARES from Critical Start, Inc. for reporting this vulnerability under responsible disclosure. 
+Aviatrix would like to thank Rich Mirch, Senior Adversarial Engineer - TeamARES from Critical Start, Inc. for reporting this vulnerability under responsible disclosure. 
 
 
 
@@ -170,7 +170,7 @@ Controller & Gateway upgrade 5.4.1204 (5/8/2020) or later
 CVE-2020-13413
 
 **Acknowledgement**
-Aviatrix is pleased to thank Rich Mirch, Senior Adversarial Engineer - TeamARES from Critical Start, Inc. for reporting this vulnerability under responsible disclosure. 
+Aviatrix would like to thank Rich Mirch, Senior Adversarial Engineer - TeamARES from Critical Start, Inc. for reporting this vulnerability under responsible disclosure. 
 
 
 6. OpenVPN Client - Elevation of Privilege 
@@ -202,7 +202,7 @@ In Controller, customer must configure OpenVPN minimum client version to 2.10.7
 CVE-2020-13417
 
 **Acknowledgement**
-Aviatrix is pleased to thank Rich Mirch, Senior Adversarial Engineer - TeamARES from Critical Start, Inc. for reporting this vulnerability under responsible disclosure. 
+Aviatrix would like to thank Rich Mirch, Senior Adversarial Engineer - TeamARES from Critical Start, Inc. for reporting this vulnerability under responsible disclosure. 
 
 
 5. Cross Site Request Forgery (CSRF)
@@ -230,7 +230,7 @@ Controller & Gateway upgrade 5.4.1204 (5/8/2020) or later
 CVE-2020-13412
 
 **Acknowledgement**
-Aviatrix is pleased to thank Rich Mirch, Senior Adversarial Engineer - TeamARES from Critical Start, Inc. for reporting this vulnerability under responsible disclosure. 
+Aviatrix would like to thank Rich Mirch, Senior Adversarial Engineer - TeamARES from Critical Start, Inc. for reporting this vulnerability under responsible disclosure. 
 
 4. Hard Coded Credentials
 -------------------------
@@ -258,7 +258,7 @@ Recommended: AWS Security Group settings grants only authorized Controller Acces
 CVE-2020-13414
 
 **Acknowledgement**
-Aviatrix is pleased to thank Rich Mirch, Senior Adversarial Engineer - TeamARES from Critical Start, Inc. for reporting this vulnerability under responsible disclosure. 
+Aviatrix would like to thank Rich Mirch, Senior Adversarial Engineer - TeamARES from Critical Start, Inc. for reporting this vulnerability under responsible disclosure. 
 
 3. CSRF on Password Reset  
 ----------------------
@@ -311,7 +311,7 @@ Plus Security Patch “SAML XML signature wrapping vulnerability”
 CVE-2020-13415
 
 **Acknowledgement**
-Aviatrix is pleased to thank Ioannis Kakavas from Elastic for reporting this vulnerability under responsible disclosure. 
+Aviatrix would like to thank Ioannis Kakavas from Elastic for reporting this vulnerability under responsible disclosure. 
 
 1. OpenVPN Client Arbitrary File Write
 ------------------------------------
@@ -338,7 +338,7 @@ Upgrade to VPN client v2.6 or later
 CVE-2020-7224
 
 **Acknowledgement**
-Aviatrix is pleased to thank Rich Mirch, Senior Adversarial Engineer - TeamARES from Critical Start, Inc. for reporting this vulnerability under responsible disclosure. 
+Aviatrix would like to thank Rich Mirch, Senior Adversarial Engineer - TeamARES from Critical Start, Inc. for reporting this vulnerability under responsible disclosure. 
 
 
 .. disqus::
